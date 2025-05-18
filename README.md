@@ -1,2 +1,2 @@
 # jsonplaceholder
-Вывод данных с ресурса JsonPlaceHolder, при помощи JS.
+Вывод данных с ресурса JsonPlaceHolder, при помощи Javascript
